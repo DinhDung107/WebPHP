@@ -1,4 +1,4 @@
-# 🛒 Website Bán Hàng Đồ Án Tốt Nghiệp
+# 🛒 Website Bán Hàng 
 
 > Một dự án thương mại điện tử được xây dựng bằng thiết kế chuẩn mô hình MVC trong PHP và MySQL, chạy trên môi trường XAMPP. Được tích hợp thanh toán VNPAY và Đăng nhập Google.
 
